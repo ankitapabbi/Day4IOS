@@ -29,7 +29,7 @@ class PickerViewController: UIViewController {
         
         self.textAddCollege.delegate = self
         
-        // Do any additional setup after loading the view.
+        //Do any additional setup after loading the view.
     }
 
    
